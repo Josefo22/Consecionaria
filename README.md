@@ -1,7 +1,5 @@
 # 🚗 Concesionaria Web
 
-![Concesionaria Banner](https://media.giphy.com/media/YlSR8rPZZSRpmbPblN/giphy.gif)
-
 **Concesionaria Web** es una plataforma diseñada para la gestión integral de una concesionaria de autos. Este proyecto combina una interfaz moderna y funcionalidades dinámicas para optimizar la administración de vehículos, clientes e inventario.
 
 ---
